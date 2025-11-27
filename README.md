@@ -498,9 +498,6 @@ Contributions welcome! Areas for improvement:
 ---
 
 
-
----
-
 ## ⭐ Acknowledgments
 
 - **OpenAI Whisper** – Robust multilingual speech recognition
