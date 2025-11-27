@@ -1,18 +1,5 @@
 # 🎙️ Dual-Lane Real-Time STT System
 
-<div align="center">
-
-[![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Whisper](https://img.shields.io/badge/Whisper-OpenAI-black?logo=openai)](https://github.com/openai/whisper)
-[![WebSocket](https://img.shields.io/badge/WebSocket-Real--time-brightgreen)](https://en.wikipedia.org/wiki/WebSocket)
-
-**Real-time multilingual speech-to-text for simultaneous dual-speaker transcription with speaker identification & prosody extraction**
-
-[📖 Features](#features) • [🚀 Quick Start](#quick-start) • [📊 Architecture](#system-architecture) • [📂 Outputs](#what-you-get) • [🌍 Languages](#language-support)
-
-</div>
-
 ---
 
 ## 📋 Overview
