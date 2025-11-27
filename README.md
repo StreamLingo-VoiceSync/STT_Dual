@@ -1,5 +1,4 @@
 # 🎙️ Dual-Lane Real-Time STT System
-
 ---
 
 ## 📋 Overview
