@@ -9,7 +9,6 @@ MT/TTS-ready output with word-level timestamps, prosody, and embeddings
 """
 
 from __future__ import annotations
-
 import asyncio
 import base64
 import json
