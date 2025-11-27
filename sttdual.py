@@ -1,15 +1,10 @@
 """
-PRODUCTION-GRADE REAL-TIME STT SYSTEM - LATENCY OPTIMIZED (<2s)
-WITH WEBSOCKET TRANSCRIPT RELAY - FULLY PATCHED
+REAL-TIME STT SYSTEM - LATENCY OPTIMIZED (<2s)
 
 ================================================================
 
 Multi-language support: EN, HI, ES, FR
 MT/TTS-ready output with word-level timestamps, prosody, and embeddings
-Zero-repetition guaranteed with advanced deduplication
-WER Target: <1%, Latency Target: <2s
-
-✅ PATCHED VERSION WITH ALL 10 FIXES INCLUDED
 
 """
 
