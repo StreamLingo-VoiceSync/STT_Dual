@@ -268,7 +268,7 @@ Edit `sttdual.py` to customize (all settings documented in code):
 ### Main Settings
 
 ```python
-# LANGUAGE CONFIGURATION (Lines 89-110)
+# LANGUAGE CONFIGURATION 
 MODELS_CONFIG = {
     "en": {"primary": "medium"},
     "hi": {"primary": "medium"},
@@ -276,13 +276,13 @@ MODELS_CONFIG = {
     "fr": {"primary": "medium"}
 }
 
-# SILENCE PADDING (Lines 52-56)
+# SILENCE PADDING 
 # How long to wait after silence to mark end of sentence
 SILENCE_PADDING = {
     "en": 0.25,  "hi": 0.25,  "es": 0.25,  "fr": 0.25
 }
 
-# RMS THRESHOLDS (Lines 73-80)
+# RMS THRESHOLDS 
 # Lower = more sensitive to quiet speech
 RMS_THRESHOLD = {
     "en": 0.003,      # Standard
@@ -291,7 +291,7 @@ RMS_THRESHOLD = {
     "fr": 0.003
 }
 
-# CONFIDENCE THRESHOLDS (Lines 82-88)
+# CONFIDENCE THRESHOLDS 
 # Min confidence to accept transcript
 CONFIDENCE_THRESHOLD = {
     "en": 0.65,       # Accept 65%+
